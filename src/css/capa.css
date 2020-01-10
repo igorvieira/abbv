@@ -1,0 +1,33 @@
+ .capa-page
+{
+    background-image: url('/img/capa.jpg');
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    background-size: cover;
+}
+.sombra
+{
+    text-shadow: 1px 0px 0px red, 
+                 -1px 0px 0px red, 
+                 0px 1px 0px red, 
+                 0px -1px 0px red;
+    font-size: 200%;
+    font-weight: bold;
+    color: #FFF;
+     font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+    
+}
+.nav a.white-text:hover {
+    color: #e0e0e0!important;
+}
