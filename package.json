@@ -1,0 +1,15 @@
+{
+  "name": "abbv",
+  "version": "1.0.0",
+  "description": "abbv website",
+  "main": "server.js",
+  "scripts": {
+    "dev": "npx nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "igorprvieira <igor.p.r.vieira@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
